@@ -7,6 +7,7 @@ public class HelloGit {
         System.out.println("03");
         System.out.println("hot-fix01");
         System.out.println("master Test");
-        System.out.println("hot-fix text");
+        System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
